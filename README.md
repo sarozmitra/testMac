@@ -1,2 +1,4 @@
 # testMac
+
 testing
+git setup
